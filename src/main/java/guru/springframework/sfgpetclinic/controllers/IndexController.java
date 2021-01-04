@@ -8,6 +8,7 @@ public class IndexController {
     }
 
     public String oupsHandler(){
+//        throw new RuntimeException("oups Handler exception");
         return "notimplemented";
     }
 }
